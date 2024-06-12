@@ -1,2 +1,2 @@
-Generate an image of a serene and enchanting landscape inspired by Studio Ghibli's art style. The scene should depict a cozy and inviting setting with rolling hills, lush greenery, and a calm river. The time of day should be nighttime with a subtle glow from the moon peeking through the clouds. Capture the essence of a cloudy sky that enhances the tranquil and mystical atmosphere of the scene.RelativeLayout8
-- Generated at 2024-06-12 00:06:54 UTC
+Create an image in the style of a Studio Ghibli landscape, focusing on a cozy, comfortable and beautiful setting at night. The scene should depict a serene environment with a clear, starry sky and a bright, shining moon illuminating the landscape. Capture the tranquility and warmth of this nighttime setting without human presence, highlighting the natural beauty under a clear, sunny night sky.
+- Generated at 2024-06-12 06:02:39 UTC
