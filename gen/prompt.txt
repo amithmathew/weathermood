@@ -1,2 +1,3 @@
-Generate an image of a serene and enchanting landscape under a starry night sky in Studio Ghibli style. The scene should depict a cozy and inviting setting with clear, sunny weather, creating an atmosphere of peace and tranquility. Avoid any human presence in the image, focusing instead on capturing the beauty of nature illuminated by the moonlight, conveying a sense of warmth and comfort through the scenery.
-- Generated at 2024-06-13 06:02:52 UTC
+Create an image in the style of Studio Ghibli featuring a serene landscape that exudes coziness and beauty. Visualize a scene where fluffy clouds dominate the sky overhead during the daytime, casting soft, diffused light over the gentle rolling hills, quaint cottages, and lush forests. "+
+
+- Generated at 2024-06-13 12:03:03 UTC
