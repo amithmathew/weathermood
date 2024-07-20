@@ -1,4 +1,2 @@
-Sure! Here is a prompt for the AI model in the style you specified:
-
-Illustrate a serene and enchanting nighttime landscape in the style reminiscent of Studio Ghibli. The scene should showcase a cozy and comfortable setting with elements like rolling hills, lush trees, and a crystal-clear river reflecting the moonlight under a starry sky. The atmosphere is warm and inviting, with the weather portraying a clear and sunny night. Focus on capturing the magical essence of the night where tranquility and beauty harmonize under the celestial canopy.
-- Generated at 2024-07-19 06:03:25 UTC
+Generate an image of a serene landscape inspired by the Studio Ghibli style, showcasing a cozy and comfortable setting. The scene should depict a beautiful nighttime environment with a clear and sunny night sky as the main focal point. Capture the essence of tranquility and harmony in the natural surroundings, highlighting the peaceful ambiance illuminated by the moonlight and stars. Avoid including any human characters and aim to focus on the captivating interplay between the radiant moonlit atmosphere and the enchanting scenery.
+- Generated at 2024-07-20 06:04:01 UTC
